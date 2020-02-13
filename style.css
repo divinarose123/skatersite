@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+  
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    
+
+ }   
+    
+ul a {
+    color: white;
+    
+    
+}
+
+li a:hover {
+    background-color: black;
+}
+
+li {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    border: 5px solid red;    
+    background-color: red;
+    
+}
+
+.background {
+    margin-right: -24px;
+    display: flex;
+    justify-content: center;
+}
+
+.topimage img{
+    width: 75%;
+    border: 5px solid black
+    
+    
+}
+
+
+
+
+
+
